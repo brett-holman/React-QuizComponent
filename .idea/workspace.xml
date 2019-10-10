@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18546268-d77e-4aa1-b20d-74b535af4de9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Quiz.js" afterPath="$PROJECT_DIR$/src/Quiz.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/QuizQuestion.js" afterPath="$PROJECT_DIR$/src/QuizQuestion.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/QuizQuestionButton.js" afterPath="$PROJECT_DIR$/src/QuizQuestionButton.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,8 +60,8 @@
       <file leaf-file-name="QuizQuestion.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/QuizQuestion.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+            <state relative-caret-position="646">
+              <caret line="38" column="94" lean-forward="false" selection-start-line="38" selection-start-column="94" selection-end-line="38" selection-end-column="94" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -302,7 +300,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8720000" />
+    <option name="totallyTimeSpent" value="9088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="6" />
@@ -459,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QuizQuestion.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        <state relative-caret-position="646">
+          <caret line="38" column="94" lean-forward="false" selection-start-line="38" selection-start-column="94" selection-end-line="38" selection-end-column="94" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
